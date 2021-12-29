@@ -2,6 +2,7 @@
 # I'm Alex Briskievicz
 
 <head><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"></head>
+<body> 
 <div>
   <a href="https://github.com/Alexbriskievicz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexbriskievicz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -25,7 +26,7 @@
  
 ![Snake animation](https://github.com/alexbriskievicz/Alexbriskievicz/blob/output/github-contribution-grid-snake.svg)
 </div>
-
+</body>
  
 
  
