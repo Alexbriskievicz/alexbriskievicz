@@ -5,10 +5,7 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 </head>
 <body> 
-<div>
-  <a href="https://github.com/Alexbriskievicz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexbriskievicz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Alex-JS" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
